@@ -1,0 +1,20 @@
+<svg width="232" height="308" viewBox="0 0 232 308" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2.5" y="2.5" width="227" height="303" rx="15.5" fill="white" stroke="#0C549F" stroke-width="5"/>
+<path d="M19.6749 117H218.064" stroke="#0C549F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 134H219" stroke="#0C549F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.6749 152L218 154" stroke="#0C549F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 170H218" stroke="#0C549F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.6749 206H219.293" stroke="#0C549F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M92.636 26H151.661" stroke="#0C549F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.6749 188L218 190" stroke="#0C549F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M48 222L51.0677 226.589L55.5861 223.418L56.7888 228.806L62.1476 227.481L61.3229 232.939L66.7984 233.639L64.0577 238.431L68.9104 241.062L64.6238 244.54L68.1983 248.747L62.9448 250.442L64.7584 255.655L59.2473 255.338L59.0551 260.855L54.0309 258.568L51.8587 263.642L48 259.695L44.1413 263.642L41.9691 258.568L36.9449 260.855L36.7527 255.338L31.2416 255.655L33.0552 250.442L27.8017 248.747L31.3762 244.54L27.0896 241.062L31.9423 238.431L29.2016 233.639L34.6771 232.939L33.8524 227.481L39.2112 228.806L40.4139 223.418L44.9323 226.589L48 222Z" fill="#0C549F"/>
+<circle cx="48.5" cy="66.5" r="7.5" fill="#0C549F"/>
+<circle cx="194.5" cy="67.5" r="7.5" fill="#0C549F"/>
+<path d="M37 81C37 78.7909 38.7909 77 41 77H55C57.2091 77 59 78.7909 59 81V96H37V81Z" fill="#0C549F"/>
+<path d="M183 82C183 79.7909 184.791 78 187 78H201C203.209 78 205 79.7909 205 82V97H183V82Z" fill="#0C549F"/>
+<path d="M40.5 256L33 280L48 272.8L63 280L55.5 256" stroke="#0C549F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M48 252L46.65 250.836C42.15 246.411 39 243.616 39 240.123C39 237.329 41.25 235 43.95 235C45.525 235 47.1 235.699 48 236.863C48.9 235.699 50.475 235 52.05 235C54.75 235 57 237.096 57 240.123C57 243.616 53.85 246.411 49.35 250.836L48 252Z" fill="white"/>
+<path d="M207 224H182V289L194.5 279.597L207 289V224Z" fill="#0C549F"/>
+<rect x="32" y="56" width="33" height="40" rx="6" stroke="#0C549F" stroke-width="2"/>
+<rect x="178" y="57" width="33" height="40" rx="6" stroke="#0C549F" stroke-width="2"/>
+</svg>

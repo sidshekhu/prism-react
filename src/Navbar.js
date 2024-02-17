@@ -33,7 +33,7 @@ function CustomNavbar() {
                             Email:
                         </div>
                         <div>
-                            werf@df.com
+                            prism@.com
                         </div>
                     </Col>
                     <Col style={{ display: 'flex', justifyContent: "center" }}>

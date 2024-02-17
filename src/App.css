@@ -15,3 +15,10 @@
 .dropdown-item{
   border-bottom: 1px solid #dee2e6 !important;
 }
+
+.iconImagePadding {
+  padding: 20px;
+}
+.boldParagraph{
+  font-weight: bold;
+}
